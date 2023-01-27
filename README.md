@@ -1,7 +1,7 @@
 # Aspire-E1-571G-EFI
 Aspire E1-571G-EFI
 
-opencore-0.7.9
+opencore-0.8.8
 
 Monterey-12.4
 
